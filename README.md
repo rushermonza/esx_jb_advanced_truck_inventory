@@ -1,0 +1,1 @@
+# esx_truck_inventory
